@@ -1,7 +1,7 @@
 # StatsDSMLwithPython-june18  
 
 # Directory Explorer:      
-Topic/  
+:open_file_folder:Topic/      
 ├── :open_file_folder:data/  
 ├── :open_file_folder:docs/    
 ├── :open_file_folder:files/   
