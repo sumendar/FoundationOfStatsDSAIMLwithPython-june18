@@ -1,5 +1,3 @@
-# StatsDSMLwithPython-june18    
-  
 # Notebook Stack Viewer      
   
 https://goo.gl/t8tWCv  
