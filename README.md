@@ -1,5 +1,9 @@
-# StatsDSMLwithPython-june18  
-
+# StatsDSMLwithPython-june18    
+  
+# Notebook Stack Viewer      
+  
+https://goo.gl/t8tWCv  
+  
 # Directory Explorer:      
 :open_file_folder:Topic/      
 ├── :open_file_folder:data/  
