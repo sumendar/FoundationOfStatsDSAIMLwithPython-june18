@@ -1,12 +1,10 @@
 # Notebook Stack Viewer:      
-  
 nbviewer: https://bit.ly/2Ao2CRI  
 
 # Microsoft Azure Notebooks:
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/sumendar/libraries/FoundationOfStatsDSAIML-Python)
 
 # Gitter chat:   
-(for queries)  
 [![Join the chat at https://gitter.im/FoundationOfStatsDSAIMLwithPython-june18/Lobby](https://badges.gitter.im/FoundationOfStatsDSAIMLwithPython-june18/Lobby.svg)](https://gitter.im/FoundationOfStatsDSAIMLwithPython-june18/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
   
 # Directory Explorer:      
