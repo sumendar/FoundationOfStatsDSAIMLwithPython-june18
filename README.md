@@ -1,4 +1,4 @@
-# Notebook Stack Viewer:      
+# Notebook Stack Viewer:        
 nbviewer: https://bit.ly/2Ao2CRI  
 
 # Microsoft Azure Notebooks:
