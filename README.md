@@ -7,6 +7,9 @@ nbviewer: https://bit.ly/2Ao2CRI
 # Gitter chat:   
 [![Join the chat at https://gitter.im/FoundationOfStatsDSAIMLwithPython-june18/Lobby](https://badges.gitter.im/FoundationOfStatsDSAIMLwithPython-june18/Lobby.svg)](https://gitter.im/FoundationOfStatsDSAIMLwithPython-june18/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
   
+# Download directory/folder (paste link address)         
+:arrow_down:https://goo.gl/QkH3sC
+
 # Directory Explorer:      
 :open_file_folder:Topic/  
 ├── :open_file_folder:data/  
