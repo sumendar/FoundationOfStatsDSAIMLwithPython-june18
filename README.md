@@ -13,8 +13,7 @@ nbviewer: https://bit.ly/2Ao2CRI
 # Directory Explorer:      
 :open_file_folder:Topic/  
 ├── :open_file_folder:data/  
-├── :open_file_folder:docs/       
-├── :open_file_folder:plots/   
+├── :open_file_folder:imgs/   
 └── :closed_book:Notebook.ipynb  
   
 <sub><span style="color:red; font-family:Comic Sans MS">**DISCLAIMER:**</span> The images, code snippets, excerpts and screenshots presented in this repository were not invented but collected, copied and borrowed from large amount of sources by inspiring from them. These sources includes which are found on the internet, books, blog posts, YouTube videos and other online tutorials - see the source, credit or references in the notebooks for more details</sub>  
