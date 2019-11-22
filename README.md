@@ -26,4 +26,5 @@
 └── :closed_book:Notebook.ipynb  
   
 <sub><span style="color:red; font-family:Comic Sans MS">**DISCLAIMER:**</span> The images, code snippets, excerpts and screenshots...etc presented in this repository were neither  invented nor plagiarized but collected, copied and borrowed from large amount of sources which includes internet, books, blog posts, YouTube videos and other online tutorials - see the source, credit or references in the notebooks for more details</sub>  
-<sub><span style="color:red; font-family:Comic Sans MS">**Note:**</span> This repository will be keep on upgrading and new contents will be added constantly.</sub>    
+<sub><span style="color:red; font-family:Comic Sans MS">  
+ **Note:**</span> This repository will be keep on upgrading and new contents will be added constantly.</sub>    
