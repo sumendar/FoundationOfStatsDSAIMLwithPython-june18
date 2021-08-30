@@ -2,11 +2,6 @@
 (Notebooks as static web pages)  
 [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/sumendar/AppliedStatsDSMLAIwithPython-june18/tree/master/)
 
-
-# Microsoft Azure Notebooks:
-(Cloud hosted notebooks)  
-[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/sumendar/libraries/FoundationOfStatsDSAIML-Python)
-
 # Binder:
 (interactive notebooks)  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sumendar/FoundationOfStatsDSAIMLwithPython-june18/master)
