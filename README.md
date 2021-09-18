@@ -1,13 +1,13 @@
 # Notebook Viewer:  
-(Notebooks as static web pages)  
+(static web page notebooks)  
 [![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/github/sumendar/AppliedStatsDSMLAIwithPython-june18/tree/master/)
 
 # Binder:
-(interactive notebooks)  
+(interactive notebooks to work in the browser)  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sumendar/FoundationOfStatsDSAIMLwithPython-june18/master)
 
 # Gitter chat: 
-(for quries)  
+(communicate for any queries)  
 [![Join the chat at https://gitter.im/FoundationOfStatsDSAIMLwithPython-june18/Lobby](https://badges.gitter.im/FoundationOfStatsDSAIMLwithPython-june18/Lobby.svg)](https://gitter.im/FoundationOfStatsDSAIMLwithPython-june18/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
   
 # Download directory/folder 
