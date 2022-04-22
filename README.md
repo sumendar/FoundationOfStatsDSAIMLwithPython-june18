@@ -20,5 +20,6 @@
 ├── :open_file_folder:imgs/   
 └── :closed_book:Notebook.ipynb  
   
-<sub><span style="color:red; font-family:Comic Sans MS">**DISCLAIMER:**</span>  
+``diff
+<sub><span style="color:red; font-family:Comic Sans MS">**DISCLAIMER:**</span>  ```
 The material (images, code snippets...) for the notebook presentation has been neither invented nor plagiarized but compiled from various sources such as books, blog posts, YouTube, tutorials (online and offline), other lecture notes, and several resources available on the internet. The information contained and shared through this lecture/presentation is for general information and should be used for educational purposes for the learners and job seekers only, very thankful to the people who shared them on the internet and the credit goes to them. while we still endeavor to keep on updating the information up to date and new content will be added gradually.</sub>  
