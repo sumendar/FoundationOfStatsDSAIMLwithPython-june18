@@ -20,6 +20,7 @@
 ├── :open_file_folder:imgs/   
 └── :closed_book:Notebook.ipynb  
   
-<sub><span style="color:red; font-family:Comic Sans MS">**DISCLAIMER:**</span> The images, code snippets, excerpts and screenshots...etc presented in this repository were not my intellectual property, neither invented nor plagiarized but collected, copied and borrowed from large amount of sources which includes internet, books, blog posts, YouTube videos and other online tutorials for the learners and job seekers- see the source, credit or references in the notebooks for more details</sub>  
+<sub><span style="color:red; font-family:Comic Sans MS">**DISCLAIMER:**</span>  
+The material (images, code snippets...) for the notebook presentation has been neither invented nor plagiarized but compiled from various sources such as books, blog posts, YouTube, tutorials (online and offline), other lecture notes, and several resources available on the internet. The information contained and shared through this lecture/presentation material is for general information and should be used for educational purposes for the learners and job seekers only, very thankful to the people who shared them on the internet and the credit really goes to them. while we still endeavor to keep `the information up to date and correct.</sub>  
 <sub><span style="color:red; font-family:Comic Sans MS">  
  **Note:**</span> This repository will be keep on upgrading and new contents will be added constantly.</sub>    
